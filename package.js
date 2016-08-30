@@ -15,6 +15,7 @@ Package.onUse(function(api) {
     ], 'client');
     api.use([
         'http',
+        'ejson',
     ], 'server');
 
     api.addFiles(['server/server.js'], 'server');
