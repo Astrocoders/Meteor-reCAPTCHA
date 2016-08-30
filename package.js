@@ -1,7 +1,7 @@
 Package.describe({
-    name: "altapp:recaptcha",
+    name: "astrocoders:recaptcha",
     summary: "Form bot protection for Meteor.",
-    git: "https://github.com/Altapp/Meteor-reCAPTCHA.git",
+    git: "https://github.com/Astrocoders/Meteor-reCAPTCHA.git",
     version: "2.0.2"
 });
 
