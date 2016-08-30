@@ -2,7 +2,7 @@ Package.describe({
     name: "altapp:recaptcha",
     summary: "Form bot protection for Meteor.",
     git: "https://github.com/Altapp/Meteor-reCAPTCHA.git",
-    version: "2.0.1"
+    version: "2.0.2"
 });
 
 Package.onUse(function(api) {
